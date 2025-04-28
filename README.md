@@ -142,8 +142,7 @@ urlpatterns = [
 ]
 ```
 ## SERVER SIDE PROCESSING:
-![Screenshot 2025-04-28 211805](https://github.com/user-attachments/assets/042dbe77-56bb-4550-8dad-19392b0f31f6)
-
+![Screenshot 2025-04-28 230913](https://github.com/user-attachments/assets/54fbbd35-cefe-42b7-b0af-bf0196ddac9e)
 
 ## HOMEPAGE:
 ![Screenshot 2025-04-28 211841](https://github.com/user-attachments/assets/f6a337dd-565b-41de-aa8b-8fe139d162e0)
